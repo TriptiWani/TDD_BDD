@@ -1,0 +1,5 @@
+Experiments with TDD
+- using Cucumber to build a simple Blog
+- using minitest to build a calculator
+- using 'rspec' and 'shoulda-matchers' to build a fruitstore
+- Using scaffolding and RSpec
